@@ -1,6 +1,6 @@
 Package: com.evilgoldfish.livephotosenabler
 Name: Live Photos Enabler
-Depends: mobilesubstrate
+Depends: firmware (>= 9.0), mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Live Photos on older devices.
